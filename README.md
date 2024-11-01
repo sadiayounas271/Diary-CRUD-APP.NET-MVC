@@ -10,3 +10,7 @@ A simple diary application built using ASP.NET MVC, demonstrating the core conce
 •	Razor Pages  
 •	 Bootstrap  
 •	SQL Server
+
+
+https://github.com/user-attachments/assets/432ac28c-616a-4696-8738-6edad304a303
+
